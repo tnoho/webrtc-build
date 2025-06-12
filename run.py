@@ -249,6 +249,7 @@ PATCHES = {
         "fix_perfetto.patch",
         "fix_moved_function_call.patch",
         "ios_add_scale_resolution_down_to.patch",
+        "ios_stereo.patch",
         # 既に ios_build.patch で同じ内容を適用済み
         # "remove_crel.patch",
     ],
